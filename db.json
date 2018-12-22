@@ -1,0 +1,20 @@
+{
+  "pins": [
+    {
+      "id": 4,
+      "status": "off"
+    }, 
+    {
+      "id": 5,
+      "status": "off"
+    }, 
+    {
+      "id": 12,
+      "status": "off"
+    }, 
+    {
+      "id": 14,
+      "status": "off"
+    }
+  ]
+}
